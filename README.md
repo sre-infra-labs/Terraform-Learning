@@ -1,2 +1,2 @@
 # Terraform-Learning
-I share my scripts &amp; learning regarding Terraform
+I share my scripts while learning regarding Terraform
